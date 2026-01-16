@@ -196,13 +196,13 @@ gcc
 gdb
 valgrind
 cmake
-Code::Blocks
-Qt Creator
-VSCodium
+codeblocks
+qtcreator
+code
 jdk-openjdk
 maven
 gradle
-IntelliJ IDEA Community Edition
+intellij-idea-community-edition
 python
 python-pip
 ipython
@@ -210,18 +210,16 @@ jupyter-notebook
 python-numpy
 python-pandas
 python-matplotlib
-Thonny
-PyCharm Community Edition
+#thonny
+pycharm-community-edition
 nodejs
 npm
 yarn
 firefox-developer-edition
 chromium
-Bruno
-DBeaver
+#bruno
+dbeaver
 postgresql
 sqlite
 dotnet-sdk
-code
-pycharm-community
-
+scratch
